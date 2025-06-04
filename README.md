@@ -37,9 +37,9 @@ Display the test accuracy, confusion matrix, and classification report.
 
 ## PROGRAM
 
-### Name: KARTHIKEYAN R
+### Name: VINOTHINI T
 
-### Register Number: 212222240046
+### Register Number: 212223040245
 
 ```
 import torch
